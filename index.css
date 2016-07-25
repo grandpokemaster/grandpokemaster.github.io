@@ -1,11 +1,11 @@
+#Container{
+    position: absolute;
+    top:5%
+}
 #header{
 color: red;
 position: absolute;
         left: 50%;
         margin-right: -50%;
         transform: translate(-50%, -50%) 
-}
-#Content{
-    position: absolute;
-    top: 5%
 }
